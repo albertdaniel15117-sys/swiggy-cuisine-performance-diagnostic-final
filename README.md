@@ -61,6 +61,8 @@ The final summary reconciles to the Part A SQL totals to the rupee.
 
 Follow `TABLEAU_BUILD_GUIDE.md` to build the one-page Tableau Public dashboard from the exact CSV. The guide includes the calculated fields, KPI formulas, chart setup, filter instruction, and publish steps.
 
+Live Tableau Public Dashboard:https://public.tableau.com/app/profile/albert.daniel7148/viz/SwiggyCuisinePerformanceDashboard_17869738675070/SwiggyCuisinePerformanceDashboard
+
 ## Data story
 
 See [`DATA_STORY.md`](DATA_STORY.md).
